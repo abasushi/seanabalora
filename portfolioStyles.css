@@ -110,7 +110,7 @@ body{
 }
 
 .project-thirteen{
-    background-image: url(./Portfolio/13.jpg);
+    background-image: url(./Portfolio/13.JPG);
 }
 
 .project-fourteen{
@@ -161,5 +161,8 @@ body{
 
     .card{
         width: 100%
+    }
+    .card-image{
+        height: 250px;
     }
 }

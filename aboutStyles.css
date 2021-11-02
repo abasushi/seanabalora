@@ -201,11 +201,12 @@ body{
     text-align: justify;
   }
   .gallery-container{
-    margin: 2% 0;
+    margin: 1% 0;
     padding: 0 10%;
   }
   .gallery-image{
     border-radius: 8px;
+    height: 300px;
   }
   #skills-section{
     padding: 10%
