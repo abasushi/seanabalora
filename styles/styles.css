@@ -1,7 +1,7 @@
 #splash-screen-section{
     height: 100vh;
     display: flex;
-    background-image: url("./Resources/Background-03.svg");
+    background-image: url("../Resources/Background-03.svg");
     background-repeat: none;
     background-size: cover;
     background-position: center center;
@@ -78,15 +78,15 @@
 }
 
 .project-one{
-    background-image: url(./Portfolio/1.jpg);
+    background-image: url(../img/1.jpg);
 }
 
 .project-two{
-    background-image: url(./Portfolio/2.gif);
+    background-image: url(../img/2.gif);
 }
 
 .project-three{
-    background-image: url(./Portfolio/3.jpg);
+    background-image: url(../img/3.jpg);
 }
 
 .card-text{
@@ -153,7 +153,7 @@
 .about-image{
     width: 50%;
     height: 690px;
-    background-image: url(./Resources/DSCF0831.jpg);
+    background-image: url(../Resources/DSCF0831.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;

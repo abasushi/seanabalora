@@ -8,6 +8,7 @@ header{
     text-align: left;
     justify-content: space-between;
     align-items: center;
+    z-index: 1;
 }
 
 .header-logo{
@@ -24,7 +25,7 @@ header ul li{
 }
 
 header ul li a{
-    font-size: 13px;
+    font-size: 13px !important;
     text-decoration: none;
     padding: 6px 15px;
     color: #56425E;

@@ -5,7 +5,7 @@ body{
 #portfolio-splash-screen{
     height: 60vh;
     display: flex;
-    background-image: url("./Resources/Background-04.svg");
+    background-image: url("../Resources/Background-04.svg");
     background-repeat: none;
     background-size: cover;
     background-position: center center;
@@ -62,63 +62,63 @@ body{
 }
 
 .project-one{
-    background-image: url(./Portfolio/1.jpg);
+    background-image: url(../img/1.jpg);
 }
 
 .project-two{
-    background-image: url(./Portfolio/2.gif);
+    background-image: url(../img/2.gif);
 }
 
 .project-three{
-    background-image: url(./Portfolio/3.jpg);
+    background-image: url(../img/3.jpg);
 }
 
 .project-four{
-    background-image: url(./Portfolio/4.gif);
+    background-image: url(../img/4.gif);
 }
 
 .project-five{
-    background-image: url(./Portfolio/5.jpg);
+    background-image: url(../img/5.jpg);
 }
 
 .project-six{
-    background-image: url(./Portfolio/6.jpg);
+    background-image: url(../img/6.jpg);
 }
 
 .project-seven{
-    background-image: url(./Portfolio/7.jpg);
+    background-image: url(../img/7.jpg);
 }
 
 .project-eight{
-    background-image: url(./Portfolio/8.jpg);
+    background-image: url(../img/8.jpg);
 }
 
 .project-nine{
-    background-image: url(./Portfolio/9.jpg);
+    background-image: url(../img/9.jpg);
 }
 
 .project-ten{
-    background-image: url(./Portfolio/10.gif);
+    background-image: url(../img/10.gif);
 }
 
 .project-eleven{
-    background-image: url(./Portfolio/11.gif);
+    background-image: url(../img/11.gif);
 }
 
 .project-twelve{
-    background-image: url(./Portfolio/12.jpg);
+    background-image: url(../img/12.jpg);
 }
 
 .project-thirteen{
-    background-image: url(./Portfolio/13.JPG);
+    background-image: url(../img/13.JPG);
 }
 
 .project-fourteen{
-    background-image: url(./Portfolio/14.jpg);
+    background-image: url(../img/14.jpg);
 }
 
 .project-fifteen{
-    background-image: url(./Portfolio/15.jpg);
+    background-image: url(../img/15.jpg);
 }
 
 .card-text{

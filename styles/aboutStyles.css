@@ -5,7 +5,7 @@ body{
 #about-splash-screen{
     height: 60vh;
     display: flex;
-    background-image: url("./Resources/Background-01.svg");
+    background-image: url("../Resources/Background-01.svg");
     background-repeat: none;
     background-size: cover;
     background-position: center center;
@@ -76,39 +76,39 @@ body{
 }
 
 .aba-one{
-  background-image: url(./About/1.jpg);
+  background-image: url(../About/1.jpg);
 }
 
 .aba-two{
-  background-image: url(./About/2.jpg);
+  background-image: url(../About/2.jpg);
 }
 
 .aba-three{
-  background-image: url(./About/3.jpg);
+  background-image: url(../About/3.jpg);
 }
 
 .aba-four{
-  background-image: url(./About/4.jpg);
+  background-image: url(../About/4.jpg);
 }
 
 .aba-five{
-  background-image: url(./About/5.jpg);
+  background-image: url(../About/5.jpg);
 }
 
 .aba-six{
-  background-image: url(./About/6.jpg);
+  background-image: url(../About/6.jpg);
 }
 
 .aba-seven{
-  background-image: url(./About/7.jpg);
+  background-image: url(../About/7.jpg);
 }
 
 .aba-eight{
-  background-image: url(./About/8.jpg);
+  background-image: url(../About/8.jpg);
 }
 
 .aba-nine{
-  background-image: url(./About/9.jpg);
+  background-image: url(../About/9.jpg);
 }
 
 .skills-title{

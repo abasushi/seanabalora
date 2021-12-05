@@ -1,11 +1,11 @@
 body{
-    background-color: #FFDFCA;
+    background-color: #FFDFCA !important;
 }
 
 #contact-splash-screen{
     height: 60vh;
     display: flex;
-    background-image: url("./Resources/Background-05.svg");
+    background-image: url("../Resources/Background-05.svg");
     background-repeat: none;
     background-size: cover;
     background-position: center center;
@@ -34,19 +34,18 @@ body{
     padding: 100px;
 }
 
-.socials{
+/* .socials{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     flex-direction: column;
-}
+} */
 
 #socials-section img{
-    width: 300px;
+    width: 90%;
     cursor: pointer;
     transition: all 0.3s ease 0s;
-    margin: 5px 0;
 }
 
 #socials-section img:hover{
@@ -77,4 +76,8 @@ body{
     #contact-splash-screen{
         background-position: 21% 100%;
     }
+}
+
+.col-md{
+    margin-bottom: 10px;
 }
